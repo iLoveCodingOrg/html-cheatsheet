@@ -12,8 +12,8 @@ HTML is a markup language that has ONLY one thing - Elements. HTML is a collecti
 
 So here is the syntax of an HTML Element:
 
-[syntax-basic]: 'html-cheatsheet.jpg'
-[syntax-self-closing]: './html-cheatsheet-self-closing.jpg'
+[syntax-basic]: html-cheatsheet.jpg
+[syntax-self-closing]: ./html-cheatsheet-self-closing.jpg
 
 ![syntax-basic]
 ![syntax-self-closing]
