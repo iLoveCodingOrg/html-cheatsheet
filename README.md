@@ -70,6 +70,6 @@ Try the most [comprehensive HTML & CSS video course](https://iloveoding.org/cour
 
 Learn how to code HTML & CSS and build simple and professional websites.
 
-## Want an CSS Cheatsheet as well?
+## 🗺️️️️️Want a CSS Cheatsheet as well?
 
 Check out this [CSS Cheatsheet](https://github.com/iLoveCodingOrg/css-cheatsheet)
