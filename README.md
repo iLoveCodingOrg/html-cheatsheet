@@ -69,3 +69,7 @@ It has a list of all HTML elements by category.
 Try the most [comprehensive HTML & CSS video course](https://iloveoding.org/courses/htmlcss) on iLoveCoding.
 
 Learn how to code HTML & CSS and build simple and professional websites.
+
+## Want an CSS Cheatsheet as well?
+
+Check out this [CSS Cheatsheet](https://github.com/iLoveCodingOrg/css-cheatsheet)
