@@ -3,7 +3,7 @@ This is the cheatsheet for the basic syntax, terminologies, markup, and common e
 
 Note: This is not an exhaustive list of all the elements HTML has. For an awesome [HTML Reference, click here.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-Want to learn HTML & CSS? [here's an awesome video course](https://ilovecoding.org/courses/htmlcsss)
+Want to learn HTML & CSS? [here's an awesome video course](https://ilovecoding.org/courses/htmlcss2)
 
 ## I present to you - The HTML Cheatsheet 💪
 [![HTML Cheatsheet](html-cheatsheet.jpg)](html-cheatsheet.pdf)
@@ -66,7 +66,7 @@ It has a list of all HTML elements by category.
 
 ## 👍 What to learn HTML & CSS?
 
-Try the most [comprehensive HTML & CSS video course](https://iloveoding.org/courses/htmlcss) on iLoveCoding.
+Try the most [comprehensive HTML & CSS video course](https://iloveoding.org/courses/htmlcss2) on iLoveCoding.
 
 Learn how to code HTML & CSS and build simple and professional websites.
 
