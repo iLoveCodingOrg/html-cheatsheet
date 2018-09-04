@@ -66,7 +66,7 @@ It has a list of all HTML elements by category.
 
 ## 👍 What to learn HTML & CSS?
 
-Try the most [comprehensive HTML & CSS video course](https://iloveoding.org/courses/htmlcss2) on iLoveCoding.
+Try the most [comprehensive HTML & CSS video course](https://ilovecoding.org/courses/htmlcss2) on iLoveCoding.
 
 Learn how to code HTML & CSS and build simple and professional websites.
 
