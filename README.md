@@ -73,3 +73,8 @@ Learn how to code HTML & CSS and build simple and professional websites.
 ## 🗺️️️️️Want a CSS Cheatsheet as well?
 
 Check out this [CSS Cheatsheet](https://github.com/iLoveCodingOrg/css-cheatsheet)
+
+## Other Cheatsheets:
+
+- [CSS Cheatsheet](https://github.com/iLoveCodingOrg/css-cheatsheet)
+- [JavaScript Cheatsheet](https://github.com/iLoveCodingOrg/javascript-cheatsheet)
