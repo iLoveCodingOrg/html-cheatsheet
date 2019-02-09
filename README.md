@@ -64,7 +64,7 @@ Luckily, Mozilla and a ton of open source contributors have put together an [HTM
 
 It has a list of all HTML elements by category.
 
-## 👍 What to learn HTML & CSS?
+## 👍 Want to learn HTML & CSS?
 
 Try the most [comprehensive HTML & CSS video course](https://ilovecoding.org/courses/htmlcss2) on iLoveCoding.
 
