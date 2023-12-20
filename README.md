@@ -78,3 +78,6 @@ Check out this [CSS Cheatsheet](https://github.com/iLoveCodingOrg/css-cheatsheet
 
 - [CSS Cheatsheet](https://github.com/iLoveCodingOrg/css-cheatsheet)
 - [JavaScript Cheatsheet](https://github.com/iLoveCodingOrg/javascript-cheatsheet)
+- [Visual HTML Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/html)
+- [Markdown Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/markdown)
+- [Website Optimization Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/website-optimization)
